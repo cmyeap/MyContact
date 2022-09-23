@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/TARUC/Desktop/MyContact/app/src/main/res/layout/activity_main.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/TARUC/Desktop/MyContact/app/src/main/res/layout/contact_layout.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/TARUC/Desktop/MyContact/app/src/main/res/layout/content_main.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/TARUC/Desktop/MyContact/app/src/main/res/layout/fragment_add_contact.xml" value="0.12135416666666667" />
         <entry key="..\:/Users/TARUC/Desktop/MyContact/app/src/main/res/layout/fragment_first.xml" value="0.33" />
+        <entry key="..\:/Users/TARUC/Desktop/MyContact/app/src/main/res/layout/fragment_profile.xml" value="0.121875" />
+        <entry key="..\:/Users/TARUC/Desktop/MyContact/app/src/main/res/layout/fragment_second.xml" value="0.121875" />
         <entry key="..\:/Users/TARUC/Desktop/MyContact/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
       </map>
     </option>
